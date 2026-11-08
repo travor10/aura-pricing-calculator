@@ -1,0 +1,44 @@
+AURA CLEANING SOLUTIONS — Job Costing & Pricing Calculator,,,,
+Fill in the blue cells for each job. Everything else calculates automatically.,,,,
+,,,,
+1. JOB INPUTS,,,,
+Job Name,Bukiika,,Suggested Margin Guide,
+Job Type,Residential - Post-Construction,,Residential - Standard,10%–15%
+Number of Team Members,7,,Residential - Deep/Move-in,20%–28%
+Agreed Day Rate per Person (UGX),"30,000",,Residential - Post-Construction,25%–35%
+Number of Days on Job,2,,Commercial,15%–20%
+Supplies/Chemicals Cost (UGX),100000,,Specialty (Carpet/Upholstery/Fumigation),25%–45%
+Transport Cost (UGX),200000,,,
+Equipment Wear Allocation (UGX),15000,,"Survival floor (minimum, any job type):",
+"Monthly Overhead (rent, airtime, marketing) (UGX)",100000,,10%,
+Average Jobs per Month,8,,,
+,,,,
+Target Net Profit Margin (%),35.0%,,,
+,,,,
+2. COST BREAKDOWN (auto-calculated),,,,
+Labor Cost (people × day rate × days),420000,,,
+Supplies/Chemicals,100000,,,
+Transport,200000,,,
+Equipment Wear Allocation,15000,,,
+Overhead Allocation (monthly overhead ÷ avg jobs/month),12500,,,
+TOTAL COST,747500,,,
+,,,,
+3. SUGGESTED PRICE,,,,
+Suggested Price (Cost ÷ (1 ? Target Margin)),1150000,,,
+Profit at Suggested Price,402500,,,
+Labor as % of Suggested Price (should be 45–60%),36.5%,,,
+,,,,
+4. CHECK AN ACTUAL QUOTE (optional),,,,
+Actual / Client-Facing Quote Price (UGX),1200000,,,
+Actual Profit,452500,,,
+Actual Margin (%),37.7%,,,
+Verdict,? HEALTHY MARGIN,,,
+,,,,
+"Notes:
+• Labor cost is your single biggest lever — keep it around 45–60% of the final price.
+• Post-construction, carpet, upholstery and fumigation are specialty work — price them at the top of the guide, not the bottom.
+• Only pay your team after the client pays (per your own rule) — this calculator shows target profit, not cash-flow timing.
+• Update the Monthly Overhead and Average Jobs/Month figures periodically as Aura grows.",,,,
+,,,,
+,,,,
+,,,,

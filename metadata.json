@@ -1,0 +1,6 @@
+{
+  "name": "Aura Cleaning Solutions - Pricing & Quotation System",
+  "description": "Desktop Windows Forms and Web Interactive System for Job Costing, Quotation Management, and Profitability Analysis for Aura Cleaning Solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
